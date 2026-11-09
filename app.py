@@ -303,6 +303,7 @@ st.markdown("""
         <span style="color: #94A3B8;">👥 Integrantes del Grupo:</span><br>
         <strong style="color: #38BDF8;">• Inga Sialas, Carlos Alexis</strong><br>
         <strong style="color: #C084FC;">• Quispe Lucas, Cristian David</strong>
+        <strong style="color: #C084FC;">• Maguiña Osorio, Alessandro Julián</strong>
       </div>
       <div>
         <span style="color: #94A3B8;">📈 Activo Modelado:</span><br>

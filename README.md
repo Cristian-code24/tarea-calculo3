@@ -77,3 +77,4 @@ El modelo ajusta una **superficie polinomial cuadrática $z = f(x, y)$** mediant
 4. Rama: `main`.
 5. Archivo principal: `app.py`.
 6. Haz clic en **"Deploy!"**.
+
